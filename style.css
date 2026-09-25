@@ -70,5 +70,6 @@ ul{
     padding: 15px;
 }
 a{
- color: darkred;   
+    text-decoration: none;
+     color: darkred;   
 }
