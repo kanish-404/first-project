@@ -10,7 +10,9 @@
 
 }
 .welcome{
- color: navy;
+ color: rgb(191, 191, 214);
+ text-align:center;
+ padding: 10px;
 }
 .KGF{
     background-color: rgb(17, 17, 17);
