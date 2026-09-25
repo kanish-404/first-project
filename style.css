@@ -1,0 +1,74 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.hero{
+    background-color: rgb(248, 1, 174);
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
+.welcome{
+ color: navy;
+}
+.KGF{
+    background-color: rgb(17, 17, 17);
+    color: white;
+    width: 250px;
+    height: auto;
+    margin: 30px;
+    padding: 15px;
+    
+}
+h2{
+    text-align: center;
+    color: rgb(189, 4, 90);
+}
+p{
+    padding-top: 10px;
+    color: white;
+}
+h4{
+    padding-top: 10px;
+    color: rgb(253, 6, 220);
+}
+.LED{
+     background-color: rgb(17, 17, 17);
+    color: white;
+    width: 250px;
+    height: auto;
+    padding: 15px;
+    margin: 30px;
+    
+}
+
+.RED{
+     background-color: rgb(17, 17, 17);
+    color: white;
+    width: 250px;
+    height: auto;
+    padding: 15px;
+    margin: 30px;
+}
+
+.Brown{
+     background-color: rgb(17, 17, 17);
+    color: white;
+    width: 250px;
+    height: auto;
+    padding: 15px;
+    margin: 30px;
+}
+li{
+    
+    display: inline;
+    
+}
+ul{
+    
+    padding: 15px;
+}
+a{
+ color: darkred;   
+}
