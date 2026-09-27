@@ -3,7 +3,7 @@
     margin: 0px;
 }
 .hero{
-    background-color: rgb(248, 1, 174);
+    background-color:  #FF1493;
     color: white;
     text-align: center;
     padding: 20px;
@@ -47,16 +47,24 @@ h2{
     text-align: center;
     color: rgb(189, 4, 90);
 }
-p{
+h3{
+    text-align: center;
+    color: rgb(189, 4, 90);
     padding-top: 10px;
-    color: white;
 }
 h4{
     padding-top: 10px;
-    color: rgb(253, 6, 220);
+    color: rgb(189, 4, 90);
+}
+h5{
+    padding-top: 10px;
+    color: #FFD700
+}p{
+    padding-top: 10px;
+    color: white;
 }
 .KGF{
-    background-color: rgb(17, 17, 17);
+    background-color: #17171C;
     color: white;
     width: 250px;
     height: 100px;
@@ -66,7 +74,7 @@ h4{
     
 }
 .LED{
-     background-color: rgb(17, 17, 17);
+     background-color: #17171C;
     color: white;
     width: 250px;
     height: 100px;
@@ -75,8 +83,8 @@ h4{
     text-align: center;
 }
 
-.RED{
-     background-color: rgb(17, 17, 17);
+    .RED{
+    background-color: #17171C;
     color: white;
     width: 250px;
     height: 100px;
@@ -86,7 +94,7 @@ h4{
 }
 
 .Brown{
-     background-color: rgb(17, 17, 17);
+     background-color: #17171C;
     color: white;
     width: 250px;
     height: 100px;
