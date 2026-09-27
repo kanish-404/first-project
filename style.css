@@ -21,7 +21,16 @@
     height: auto;
     margin: 30px;
     padding: 15px;
+
     
+}
+.one
+{
+    text-align: center;
+}
+.two
+{
+    text-align: center;
 }
 h2{
     text-align: center;
@@ -73,5 +82,8 @@ ul{
 }
 a{
     text-decoration: none;
-     color: darkred;   
+     color: white;   
+}
+a:hover{
+    color: gray;
 }
