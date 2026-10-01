@@ -1,31 +1,32 @@
-*{
+* {
     padding: 0px;
     margin: 0px;
 }
-.hero{
-    background-color:  #FF1493;
+
+.hero {
+    background-color: #FF1493;
     color: white;
     text-align: center;
     padding: 20px;
 
 }
 
-.one
-{
+.one {
     display: flex;
     align-items: flex-start;
-     justify-content: center;
+    justify-content: center;
     align-items: center;
     gap: 20px;
 }
-.two
-{
+
+.two {
     display: flex;
     align-items: flex-start;
-     justify-content: center;
+    justify-content: center;
     align-items: center;
     gap: 20px;
 }
+
 /* Mobile screen */
 @media (max-width: 600px) {
     .one {
@@ -39,31 +40,39 @@
         flex-direction: column;
     }
 }
-.title{
+
+.title {
     padding-top: 15px;
 
 }
-h2{
+
+h2 {
     text-align: center;
     color: rgb(189, 4, 90);
 }
-h3{
+
+h3 {
     text-align: center;
     color: rgb(189, 4, 90);
     padding-top: 10px;
 }
-h4{
+
+h4 {
     padding-top: 10px;
     color: rgb(189, 4, 90);
 }
-h5{
+
+h5 {
     padding-top: 10px;
     color: #FFD700
-}p{
+}
+
+p {
     padding-top: 10px;
     color: white;
 }
-.KGF{
+
+.KGF {
     background-color: #17171C;
     color: white;
     width: 250px;
@@ -71,19 +80,10 @@ h5{
     margin: 30px;
     padding: 15px;
     text-align: center;
-    
-}
-.LED{
-     background-color: #17171C;
-    color: white;
-    width: 250px;
-    height: 100px;
-    padding: 15px;
-    margin: 30px;
-    text-align: center;
+
 }
 
-    .RED{
+.LED {
     background-color: #17171C;
     color: white;
     width: 250px;
@@ -93,8 +93,18 @@ h5{
     text-align: center;
 }
 
-.Brown{
-     background-color: #17171C;
+.RED {
+    background-color: #17171C;
+    color: white;
+    width: 250px;
+    height: 100px;
+    padding: 15px;
+    margin: 30px;
+    text-align: center;
+}
+
+.Brown {
+    background-color: #17171C;
     color: white;
     width: 250px;
     height: 100px;
@@ -103,19 +113,23 @@ h5{
     text-align: center;
 
 }
-li{
-    
+
+li {
+
     display: inline;
-    
+
 }
-ul{
-    
+
+ul {
+
     padding: 15px;
 }
-a{
-    text-decoration: none;
-     color: white;   
+
+a {
+   text-decoration: none;  
+    color: white;
 }
-a:hover{
+
+a:hover {
     color: gray;
 }
